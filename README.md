@@ -1,9 +1,9 @@
 # Automatin-with-Katalon
 
-# Installation
+Installation
 To download and install Katalon Studio, visit our website: [Katalon Studio](https://www.katalon.com/katalon-studio/).
 
-# Documentation
+Documentation
 For instructions on using Katalon Studio, visit our documentation website: [Full documentation](https://docs.katalon.com/katalon-studio/docs/overview.html).
 
 
