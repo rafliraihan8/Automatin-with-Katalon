@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Try Signin with incorrect username</description>
+   <name>02_failed_signin_test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>544f8e0a-7651-4882-9c24-a494982a0921</testCaseGuid>
+</TestCaseEntity>
